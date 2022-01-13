@@ -19,10 +19,11 @@
 *.tar.gz
 *.rar
 
-/explorecali/explorecali.iml
-/explorecali/.idea/*
-/explorecali/.idea/libraries/*
-/explorecali/target/
+/pdf-maker/pdf-maker.iml
+/pdf-maker/.idea/*
+/pdf-maker/.idea/libraries/*
+/pdf-maker/target/
+/pdf-maker/pdf/
 
 
 /.idea/*
